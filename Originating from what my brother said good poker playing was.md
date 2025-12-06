@@ -11,3 +11,5 @@ Let's say you make a business decision to cut marketing for a specific product. 
 (note to self, think about whether this is actually second-order thinking...)
 
 One might say that the distinction between thinking and decision making is key (not sure if this is true, just trying to prove things for fun). I am not convinced it is essential to fully differentiate them. Allow me to attempt to prove this: Thinking -> decision making is true because thoughts precede decisions. Decision making -> thinking is a bit more complex. Decision making is a subset of thinking that has led to action, meaning a tangible change in one's metal framework, which informs similar thinking.
+
+An interesting example of "second-order thinking" is the bat and ball question.
